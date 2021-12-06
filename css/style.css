@@ -1,0 +1,237 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  background-color: #696969;
+}
+
+.li {
+  color: #595959;
+  font-size: 14px;
+  line-height: 24px;
+}
+.abaut-me-profession {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 17px;
+  color: rgb(255, 255, 255);
+  margin-bottom: 20px;
+}
+
+.meine-content-title {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+  margin-bottom: 10px;
+  color: rgb(255, 255, 255);
+}
+
+.maine-naime {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 45px;
+  line-height: 55px;
+}
+
+.about-me-description {
+  width: 400px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #fb6d3a;
+}
+
+/* Maine Container  */
+
+.maine-conteiner {
+  display: flex;
+  flex-direction: row-reverse;
+  width: 1000px;
+  background-color: #252525;
+  margin: 40px auto;
+  box-shadow: 6px 6px 20px;
+}
+
+.maine-contend {
+  padding: 0px 90px;
+}
+
+.abaut-me-section {
+  font-size: 14px;
+  font-weight: 700px;
+  color: rgb(255, 255, 255);
+  margin-top: 100px;
+  margin-bottom: 40px;
+}
+
+.my-projects {
+  font-size: 14px;
+  font-weight: 700px;
+  color: rgb(255, 255, 255);
+  margin-bottom: 50px;
+}
+
+.My-projects-list {
+  padding: 0 0 0 17px;
+}
+
+.Projects-item {
+  color: #fb6d3a;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+}
+.my-project-linc {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #a7a7a7;
+}
+
+.Projects-text {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #a7a7a7;
+  margin-left: 5px;
+}
+.my-work-expirience-section {
+  font-size: 14px;
+  font-weight: 700px;
+  color: rgb(255, 255, 255);
+  margin-bottom: 45px;
+}
+.my-work-experience-position {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+  color: rgb(255, 255, 255);
+}
+.work-time {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+  color: #a8a8a8;
+
+  margin: 0 0 10px 0;
+}
+.orange {
+  color: #fb6d3a;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.VO {
+  color: #fb6d3a;
+}
+
+.Uk {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+  color: rgb(255, 255, 255);
+}
+.my-work-experience-duties {
+  padding: 18px;
+  color: rgb(255, 255, 255);
+}
+.my-work-experience-duty {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #fff;
+}
+
+.my-work-experience-Duty {
+  color: #fb6d3a;
+}
+.my-work-expirience-company {
+  margin: 0 15px 0 0;
+}
+/* Maine Container  */
+
+/*  My Education */
+
+.my-education {
+  font-size: 14px;
+  font-weight: 700px;
+  color: rgb(255, 255, 255);
+}
+
+/*  My Education */
+
+/* Sidebar, contacs, tesh+soft skills */
+
+.sidebar-section {
+  background-color: #3d3d3d;
+  width: 306px;
+  padding-top: 0px;
+}
+/* Contacts section */
+.sitebar-title {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  color: #f5f7fa;
+  margin-bottom: 10px;
+}
+.contact-section {
+  color: #f5f7fa;
+  margin: 50px 0 0 40px;
+}
+.contact-section-type {
+  color: #f5f7fa;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  margin-right: 5px;
+}
+.contact-section-link {
+  color: #fb6d3a;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+}
+/* Contacts section */
+.tech-skills,
+.soft-skills {
+  color: #f5f7fa;
+  margin: 50px 0 0 40px;
+}
+
+.CertificateGoIT {
+  color: #f5f7fa;
+  margin: 50px 0 0 17px;
+}
+
+.Certificate {
+  margin: 20px 0 0 -57px;
+}
+
+.tech-soft-skills-list {
+  padding: 0 0 0 17px;
+}
+
+.tech-soft-skills-item {
+  color: #fb6d3a;
+}
+
+.Tech-soft-skills-item {
+  color: #fff;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+}
+/* Sidebar, contacs, tesh+soft skills */ ;
